@@ -17,7 +17,7 @@ Submission needs to be done on Gradescope. Upload the iPython notebook to Google
 
 ## Deadline
 
-Assignment 2 is due on March 4 at 11:59pm.  
+Assignment 2 is due on March 2 at 11:59pm.  
 
 
 None of the parts of this assignment require use of a machine with a GPU or Pytorch library. You may complete the assignment using your local machine or you may use Google Colaboratory. However, we encourage you to try using Google Colaboratory and get familiar with it as it would be helpful in upcoming assignments.
